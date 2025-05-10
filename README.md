@@ -4,7 +4,7 @@ imodule https://github.com/lequangtuan123/stego_code_audio_parity/raw/refs/heads
 labtainer -r stego_code_audio_parity
 
 Cách 2:
-git clone https://github.com/VuThanhLong012/stego_tool_h265_metadata.git
+git clone https://github.com/lequangtuan123/stego_code_audio_parity.git
 
 cd stego_code_audio_parity
 
